@@ -5,6 +5,6 @@
 
 ## Github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=marcelojmfr10&theme=microsoft-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcelojmfr10&theme=radical)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=marcelojmfr10)](https://github.com/stats-organization/github-stats-extended)
