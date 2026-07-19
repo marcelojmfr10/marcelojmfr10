@@ -9,4 +9,6 @@
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=marcelojmfr10)](https://github.com/stats-organization/github-stats-extended)
 
+![Skills](https://skillicons.dev/icons?i=angular,react,nodejs,nestjs,nextjs,dotnet)
+
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=marcelojmfr10)](https://github.com/stats-organization/github-stats-extended)
