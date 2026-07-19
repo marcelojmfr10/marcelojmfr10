@@ -1,6 +1,6 @@
 ## Hey, I'm Marcelo
 
-* I am a Software Developer from Guatemala 🇬🇹
+* I'm a Software Developer from Guatemala 🇬🇹
 * Techstack: typescript, angular, react, node, nest, next and .net 
 
 ## Github stats
